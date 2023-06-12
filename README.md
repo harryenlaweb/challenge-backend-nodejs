@@ -53,7 +53,7 @@ The "Admin" user has additional privileges and can upload and view content. She 
 
 It is important to note that only users with the "Admin" role can perform upload and edit actions. Users with the "Viewer" role will only be able to view existing content.
 
-## Entity Eelationship Model
+## Entity Relationship Model
 
 ![Texto alternativo](challenge-node.png)
 
